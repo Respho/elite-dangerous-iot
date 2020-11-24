@@ -21,6 +21,11 @@ Plenty of Elite Dangerous events are supported, and easily extensible:
   - etc.
 
 
+# Dependencies
+
+  - [MagicMau - EliteJournalReader](https://github.com/MagicMau/EliteJournalReader)
+
+
 # Demo Video
 
 ![](demo.mp4)
@@ -30,3 +35,4 @@ Plenty of Elite Dangerous events are supported, and easily extensible:
 
   - [iqmeta - tplink-smartplug](https://github.com/iqmeta/tplink-smartplug)
   - [MagicMau - EliteJournalReader](https://github.com/MagicMau/EliteJournalReader)
+  
