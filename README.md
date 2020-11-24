@@ -28,7 +28,8 @@ Plenty of Elite Dangerous events are supported, and easily extensible:
 
 # Demo Video
 
-![](demo.mp4)
+[Video Here](demo.mp4)
+https://github.com/Respho/elite-dangerous-iot/blob/main/demo.mp4
 
 
 # Credits
